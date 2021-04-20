@@ -1,1 +1,1 @@
-Algorithms in leetcode.
+Algorithms in LeetCode.
